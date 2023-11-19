@@ -6,6 +6,13 @@
 - 🔭 I’m currently working on several datasets on Kaggle and hope to publish them soon.
 - 👯 I’m looking to collaborate with data enthusiasts with an analytical mindset.
 - 💬 Let's chat about data.
-- 📫 How to reach me: https://www.linkedin.com/in/toheeb-balogun-mph-620130224/.
 - ⚡ Fun fact: I love playing football.
+
+- ------------------------------------------------------------------------------------------------------------------------------
+###  📫 Reach me on:
+-  [LinkedIn](http://linkedin.com/in/toheeb-balogun-mph-620130224)
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Languages and Tools:
+
 -->
